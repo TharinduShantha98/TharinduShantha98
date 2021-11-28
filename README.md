@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to the profile
+<h1>Welcome to the profile </h1>
 
 
-Hi I am Tharindu
+<h1 style="color: rosybrown">Hi.. I am Tharindu</h1>
+
 
 
 I'm undergraduate student in software engineering of **IJSE** 👩‍💻 **#sri lanaka**💛💛
