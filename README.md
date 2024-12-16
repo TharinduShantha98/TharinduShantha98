@@ -17,14 +17,11 @@ Here are some ideas to get you started:
 <div  align="center">
   <h1>Welcome to My GitHub Profile!</h1>
 </div>
-
 <div align="center">
     <a target="_blank">
         <img src="/assets/images/6814343.webp" alt="Java" title="BackGround" width="514" height="300">
     </a>
 </div>
-
-
 <hr>
 <table >
   <tr>
@@ -121,7 +118,6 @@ Here are some ideas to get you started:
     </a>
     
 </div>
-
 <hr>
 <h1><b>GitHub Stats</b> </h1>
 <br>
@@ -136,5 +132,9 @@ Here are some ideas to get you started:
 <br>.Advance my expertise in microservices and container orchestration with Kubernetes.
 <br>.Contribute to open-source projects focused on cloud-native and backend solutions.
 <br>.Achieve certifications in AWS Cloud Development.
+
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=TharinduShantha98&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
