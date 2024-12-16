@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <h1>Welcome to My GitHub Profile!</h1>
 </div>
 <hr>
-<table style="width: 100%">
+<table >
   <tr>
-    <td style="width: 70%; vertical-align: top;">
+    <td style="width: 60%; vertical-align: top;">
       <h2>👨‍💻 About Me</h2>
         <p>I am Tharindu Shantha, a passionate Backend Software Engineer currently working with cutting-edge technologies to build scalable and reliable systems.</p>
         <h3>🎓 Education:</h3>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
         I’m continuously learning and adapting to modern trends in cloud-native development and distributed systems.
         Outside of work, I enjoy coding challenges, listening to music 🎧, and exploring new technologies.</p>
     </td>
-    <td style="width: 30%; vertical-align: top; text-align: center;">
+    <td style="width: 40%; vertical-align: top; text-align: center;">
         <img src="/assets/images/6814343.webp" alt="Java" title="Java - Learn more" width="514" height="450">
     </td>
   </tr>
