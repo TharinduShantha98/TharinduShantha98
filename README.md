@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GitHub Followers](https://img.shields.io/github/followers/TharinduShantha98?style=social)
 <!--
 **TharinduShantha98/TharinduShantha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,34 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <span style="color:#1527cf;">Welcome to My GitHub Profile!</span>
+<div>
+  <h1>Welcome to My GitHub Profile!</h1>
+</div>
+<table>
+  <tr>
+    <td style="width: 70%; vertical-align: top;">
+      <h2>👨‍💻 About Me</h2>
+        <p>I am Tharindu Shantha, a passionate Backend Software Engineer currently working with cutting-edge technologies to build scalable and reliable systems.</p>
+        <h3>🎓 Education:</h3>
+        <p>Graduate Diploma in Software Engineering at Institute of Software Engineering 🏫. Currently pursuing BSc (Hons) Computing at Buckinghamshire New University 🏫.</p>
+        <h3>💼 Professional Role:</h3>
+        <p>Backend Software Engineer Specializing in Java, Spring Boot, Docker, and microservices architecture.</p>
+        <p>✨ Building the backbone of the digital world, `one microservice at a time.</p>
+        <h2>⚡ Fun Facts</h2>
+        <p>I thrive on solving complex problems with efficient backend solutions ⚙️.
+        I’m continuously learning and adapting to modern trends in cloud-native development and distributed systems.
+        Outside of work, I enjoy coding challenges, listening to music 🎧, and exploring new technologies.</p>
+    </td>
+    <td style="width: 30%; vertical-align: top; text-align: center;">
+            <img src="/assets/images/6814343.webp" alt="Java" title="Java - Learn more" width="90%" height="auto">
+    </td>
+   
+  </tr>
+</table>
 
 
-![GitHub Followers](https://img.shields.io/github/followers/TharinduShantha98?style=social)
 
-
-
-
-<h2>👨‍💻 About Me</h2>
-I am Tharindu Shantha, a passionate Backend Software Engineer
-currently working with cutting-edge technologies to build scalable and reliable systems.
-
-🎓 Education:
-
-Graduate Diploma in Software Engineering at Institute of Software Engineering
-Currently pursuing BSc (Hons) Computing at Buckinghamshire New University 🏫
-
-💼 Professional Role:
-
-Backend Software Engineer Specializing in Java, Spring Boot, Docker, and microservices architecture.
-
-
-✨ Building the backbone of the digital world, one microservice at a time.
-
-<h2>⚡ Fun Facts</h2>
-I thrive on solving complex problems with efficient backend solutions ⚙️.
-I’m continuously learning and adapting to modern trends in cloud-native development and distributed systems.
-Outside of work, I enjoy coding challenges, listening to music 🎧, and exploring new technologies.
 
 
 [//]: # (![GitHub Logo]&#40;/assets/images/11.gif&#41;)
