@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>Welcome to My GitHub Profile!</h1>
 
-![Visitors Count](https://visitor-badge.glitch.me/badge?page_id=TharinduShantha98.your-repository-name)
+![Visitors Count](https://visitor-badge.glitch.me/badge?page_id=TharinduShantha98.TharinduShantha98)
 
 <h2>👨‍💻 About Me</h2>
 I am Tharindu Shantha, a passionate Backend Software Engineer
