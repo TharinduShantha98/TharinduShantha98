@@ -90,7 +90,7 @@ Outside of work, I enjoy coding challenges, listening to music 🎧, and explori
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React - Learn more" width="40" height="40">
     </a>
     <a href="https://angular.io/" target="_blank">
-        <img src="assets/images/angular.png" alt="Angular" title="Angular - Learn more" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular - Learn more" width="40" height="40">
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB - Learn more" width="40" height="40">
@@ -99,7 +99,7 @@ Outside of work, I enjoy coding challenges, listening to music 🎧, and explori
         <img src="assets/images/github.png" alt="GitHub" title="GitHub - Learn more" width="40" height="40">
     </a>
 
-    <!-- New Tech -->
+    
     
 </div>
 
