@@ -14,13 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div  align="center">
   <h1>Welcome to My GitHub Profile!</h1>
 </div>
+
+<div align="center">
+    <a target="_blank">
+        <img src="/assets/images/6814343.webp" alt="Java" title="BackGround" width="514" height="300">
+    </a>
+</div>
+
+
 <hr>
 <table >
   <tr>
-    <td style="width: 60%; vertical-align: top;">
+    <td>
       <h2>👨‍💻 About Me</h2>
         <p>I am Tharindu Shantha, a passionate Backend Software Engineer currently working with cutting-edge technologies to build scalable and reliable systems.</p>
         <h3>🎓 Education:</h3>
@@ -33,9 +41,7 @@ Here are some ideas to get you started:
         I’m continuously learning and adapting to modern trends in cloud-native development and distributed systems.
         Outside of work, I enjoy coding challenges, listening to music 🎧, and exploring new technologies.</p>
     </td>
-    <td style="width: 40%; vertical-align: top; text-align: center;">
-        <img src="/assets/images/6814343.webp" alt="Java" title="Java - Learn more" width="514" height="450">
-    </td>
+   
   </tr>
 </table>
 
