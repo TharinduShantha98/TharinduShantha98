@@ -121,16 +121,10 @@ Outside of work, I enjoy coding challenges, listening to music 🎧, and explori
 <h1><b>GitHub Stats</b> </h1>
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: left;">
-        <a href="https://github.com/TharinduShantha98">
-            <img src="https://github-readme-stats.vercel.app/api?username=TharinduShantha98&theme=dark" alt="GitHub Stats">
-        </a>
-    </div>
-    <div style="text-align: right;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduShantha98&theme=dark" alt="GitHub Streak Stats">
-    </div>
-</div>
+| GitHub Stats | GitHub Streak Stats |
+|:------------:|:-------------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TharinduShantha98&theme=dark) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TharinduShantha98&theme=dark) |
+
 
 
 <h2>🎯 Current Goals</h2>
