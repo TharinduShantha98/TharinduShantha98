@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Welcome to My GitHub Profile!</h1>
+<h1 style="text-align:center; color:#1527cf; font-size:36px;">Welcome to My GitHub Profile!</h1>
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/TharinduShantha98?style=social)
@@ -59,7 +59,7 @@ Outside of work, I enjoy coding challenges, listening to music 🎧, and explori
 
 
 <hr>
-<h1>Used Languages and tools</h1>
+<h1>Used Languages And Tools</h1>
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
     <!-- Existing Tech -->
@@ -118,18 +118,18 @@ Outside of work, I enjoy coding challenges, listening to music 🎧, and explori
 </div>
 
 <hr>
-<h1><b>github stats</b> </h1>
-
-<a href="https://https://github.com/TharinduShantha98"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduShantha98&theme=dark&hide_langs_below =1" alt="center"&width = "300">
-</a>
-
+<h1><b>GitHub Stats</b> </h1>
 <br>
+
 <a href="https://https://github.com/TharinduShantha98">
     <img src="https://github-readme-stats.vercel.app/api?username=TharinduShantha98&theme=dark">
 </a>
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TharinduShantha98&theme=dark)
+
 <h2>🎯 Current Goals</h2>
-Advance my expertise in microservices and container orchestration with Kubernetes.
-Contribute to open-source projects focused on cloud-native and backend solutions.
-Achieve certifications in AWS Cloud Development.
+<br>.Advance my expertise in microservices and container orchestration with Kubernetes.
+<br>.Contribute to open-source projects focused on cloud-native and backend solutions.
+<br>.Achieve certifications in AWS Cloud Development.
+
+
