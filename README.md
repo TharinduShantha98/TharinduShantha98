@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="text-align:center; color:#1527cf; font-size:36px;">Welcome to My GitHub Profile!</h1>
+# <span style="color:#1527cf;">Welcome to My GitHub Profile!</span>
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/TharinduShantha98?style=social)
@@ -121,11 +121,17 @@ Outside of work, I enjoy coding challenges, listening to music 🎧, and explori
 <h1><b>GitHub Stats</b> </h1>
 <br>
 
-<a href="https://https://github.com/TharinduShantha98">
-    <img src="https://github-readme-stats.vercel.app/api?username=TharinduShantha98&theme=dark">
-</a>
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: left;">
+        <a href="https://github.com/TharinduShantha98">
+            <img src="https://github-readme-stats.vercel.app/api?username=TharinduShantha98&theme=dark" alt="GitHub Stats">
+        </a>
+    </div>
+    <div style="text-align: right;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduShantha98&theme=dark" alt="GitHub Streak Stats">
+    </div>
+</div>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TharinduShantha98&theme=dark)
 
 <h2>🎯 Current Goals</h2>
 <br>.Advance my expertise in microservices and container orchestration with Kubernetes.
