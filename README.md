@@ -137,4 +137,7 @@ Here are some ideas to get you started:
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=TharinduShantha98&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 📫 Contact Me
+[![Email Badge](https://img.shields.io/badge/Email-tharindushantha4@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:tharindushantha4@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-tharindugamlakshage-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-gamlakshage-631903224/) 
 
