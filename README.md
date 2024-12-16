@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div>
   <h1>Welcome to My GitHub Profile!</h1>
 </div>
-<table>
+<hr>
+<table style="width: 100%">
   <tr>
     <td style="width: 70%; vertical-align: top;">
       <h2>👨‍💻 About Me</h2>
@@ -33,9 +34,8 @@ Here are some ideas to get you started:
         Outside of work, I enjoy coding challenges, listening to music 🎧, and exploring new technologies.</p>
     </td>
     <td style="width: 30%; vertical-align: top; text-align: center;">
-            <img src="/assets/images/6814343.webp" alt="Java" title="Java - Learn more" width="90%" height="auto">
+        <img src="/assets/images/6814343.webp" alt="Java" title="Java - Learn more" width="514" height="450">
     </td>
-   
   </tr>
 </table>
 
